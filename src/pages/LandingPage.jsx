@@ -38,23 +38,23 @@ function LandingPage() {
         <div className="suspect-grid">
           <div className="suspect-card">
             <h2 className="card-title">Get the Heat map</h2>
-            <img src="../public/heatmap.png" alt="" className="card-image" />
+            <img src="../src/assets/heatmap.png" alt="" className="card-image" />
           </div>
           <div className="suspect-card">
             <h2 className="card-title">Get the footprint</h2>
-            <img src="../public/profile.png" alt="" className="card-image" />
+            <img src="../src/assets/profile.png" alt="" className="card-image" />
           </div>
           <div className="suspect-card">
             <h2 className="card-title">Suspected profile list</h2>
             <img
-              src="../public/suspected.png"
+              src="../src/assets/suspected.png"
               alt=""
               className="card-image"
             />
           </div>
           <div className="suspect-card">
             <h2 className="card-title">Report a profile</h2>
-            <img src="../public/report.png" alt="" className="card-image" />
+            <img src="../src/assets/report.png" alt="" className="card-image" />
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@ function LandingPage() {
         <div className="image-column">
           <div className="image-wrapper">
             <img
-              src="../public/token.png"
+              src="../src/assets/token.png"
               alt="Placeholder 1"
               className="image"
             />
@@ -79,7 +79,7 @@ function LandingPage() {
           </div>
           <div className="image-wrapper">
             <img
-              src="../public/verify.png"
+              src="../src/assets/verify.png"
               alt="Placeholder 2"
               className="image"
             />
@@ -87,7 +87,7 @@ function LandingPage() {
           </div>
           <div className="image-wrapper">
             <img
-              src="../public/tracking.png"
+              src="../src/assets/tracking.png"
               alt="Placeholder 3"
               className="image"
             />
